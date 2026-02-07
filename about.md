@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-<img src="images/itsmeee.JPG" alt="Jessie Olsen" height="300">
+<img src="itsmeee.JPG" alt="Jessie Olsen" height="300">
 
 ## Background
 
@@ -31,6 +31,7 @@ Thus far I've had multiple opportunities to prepare for my career such as my int
 ### Areas of Interest
 - Coorporate Sales
 - Finance
+
 I'm still exploring my interests and am open to many data science paths!
 
 ## Goals
